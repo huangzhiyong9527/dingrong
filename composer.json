@@ -1,0 +1,15 @@
+{
+  "name": "nhtm/dingrong",
+  "authors": [
+    {
+      "name": "huang zhiyong",
+      "email": "444129187@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Nhtm\\Dingrong\\": "src/"
+    }
+  }
+}
